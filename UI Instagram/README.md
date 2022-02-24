@@ -1,8 +1,8 @@
-#Objective 
+##Objective 
 
 The objective of creating this repository is to create chrome extensions for some of the social media platforms which shall ultimately provide a better look/functionality of the web based application. 
 
-**Instagram**
+<p align="center">**Instagram**</>
 
 <p align="center">The first website to redesign was Instagram. We have tried to change the look of instagram, without hampering the minimalistic look it has.</>
 
