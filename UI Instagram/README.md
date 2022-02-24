@@ -28,8 +28,14 @@ The objective of creating this repository is to create chrome extensions for som
 
 <h1>How to Run it Locally? </h1>
 <br/>
+<img width="342" alt="Screen Shot 2022-02-25 at 3 41 12 AM" src="https://user-images.githubusercontent.com/72745185/155616153-8683654e-6b29-4ae0-b0cb-1a47e4b5944c.png">
 <p align="center">In order to run it locally, you must first download the zip file of this project, then unzip it</p>
+
+<br/>
+<img width="583" alt="Screen Shot 2022-02-25 at 3 42 27 AM" src="https://user-images.githubusercontent.com/72745185/155616269-e921f589-58f5-4b2c-8294-30e12321044a.png">
+<p align="center">Then go to your chrome settings on the top right corner > Extensions . Inside the Extensions, Click on Load Unpacked and select the directory of the file which you just unzipped.Toggle the button next to the extension afterwards. This will then activate the extension and you will be able to use this for your preferred platform.
+</p>
+<img width="419" alt="Screen Shot 2022-02-25 at 3 43 16 AM" src="https://user-images.githubusercontent.com/72745185/155616341-9286e906-acf3-472d-9608-e4c5fc55824e.png">
+
 <br/>
 
-<p align="center">Then go to your chrome settings on the top right corner > Extensions . Inside the Extensions, Click on Load Unpacked and select the directory of the file which you just unzipped.Toggle the button next to the extension afterwards. This will then activate the extension and you will be able to use this for your preferred platform.</p>
-<br/>
