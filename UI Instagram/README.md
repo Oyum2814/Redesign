@@ -1,4 +1,4 @@
-<h1 align="center">Heading 1</h1>
+<h1 align="center">Redesign</h1>
 
 The objective of creating this repository is to create chrome extensions for some of the social media platforms which shall ultimately provide a better look/functionality of the web based application. 
 
