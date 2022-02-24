@@ -1,6 +1,6 @@
 <h1 align="center">Redesign</h1>
 
-**The objective of creating this repository is to create chrome extensions for some of the social media platforms which shall ultimately provide a better look/functionality of the web based application. 
+The objective of creating this repository is to create chrome extensions for some of the social media platforms which shall ultimately provide a better look/functionality of the web based application.
 
 <center>
   <img  width="400"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Finstagram-icon-text-27.png&f=1&nofb=1">
