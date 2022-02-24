@@ -23,3 +23,7 @@ The objective of creating this repository is to create chrome extensions for som
   </tr>
 </table>
 
+
+<h1>How to Run it Locally? </h1>
+<br/>
+<p align="center">In order to run it locally, you must first download the zip file of this project, then unzip it</p>
