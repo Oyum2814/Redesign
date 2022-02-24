@@ -4,7 +4,7 @@ The objective of creating this repository is to create chrome extensions for som
 
 **Instagram**
 
-<p align="center">The first website to redesign was Instagram. We have tried to change the look of instagram, without hampering the minimalistic look it has.<\p>
+<p align="center">The first website to redesign was Instagram. We have tried to change the look of instagram, without hampering the minimalistic look it has.</>
 
 <img width="1440" alt="Screen Shot 2022-02-25 at 3 06 35 AM" src="https://user-images.githubusercontent.com/72745185/155612821-44971a6c-7c2f-40ee-b5a7-e18a2a1dd058.png">
 
