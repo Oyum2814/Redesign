@@ -7,6 +7,8 @@ The objective of creating this repository is to create chrome extensions for som
 <div align="center">
   <img  width="400"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Finstagram-icon-text-27.png&f=1&nofb=1">
 </div>
+<br/><br/>
+
 <p align="center">The first website to redesign was Instagram. We have tried to change the look of instagram, without hampering the minimalistic look it has.</>
 
 <table>
@@ -27,3 +29,7 @@ The objective of creating this repository is to create chrome extensions for som
 <h1>How to Run it Locally? </h1>
 <br/>
 <p align="center">In order to run it locally, you must first download the zip file of this project, then unzip it</p>
+<br/>
+
+<p align="center">Then go to your chrome settings on the top right corner > Extensions . Inside the Extensions, Click on Load Unpacked and select the directory of the file which you just unzipped.Toggle the button next to the extension afterwards. This will then activate the extension and you will be able to use this for your preferred platform.</p>
+<br/>
